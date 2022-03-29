@@ -4,7 +4,6 @@
 
 - Customer: View list of products, detail product, rating, comment, search product
 - Admin: Manage users, products, orders
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
 - Upload product image to by server
 - Payment via Paypal
 
